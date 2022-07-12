@@ -1,10 +1,17 @@
+<style type="text/css">
+  img{
+    margin-right: 10px;
+    margin-left: 10px; 
+  }  
+</style>
+
 <h2 align="center" style="font-size: 36px">Hi 👋,  <a href="https://ahmadfaritzip.github.io" target="blank">Ahmad Faritz Ip</a> here...</h2> 
 <h3 align="center">I like learning new things, sharing and problem solving..</h3>
 <hr>
 
 <!-- Social Media Handles -->
 
-<h2 align="center">Contact</h2>
+<h2 align="center">My Contact</h2>
 
 <!-- Main Links -->
 <p align="center">
@@ -31,17 +38,17 @@
   <h2 align="center">I work with</h2>
   <!-- Languages -->
   <div align="center">
-      <img align="center" src="https://img.icons8.com/color/96/000000/python--v1.png" alt="ahmadfaritzip" height="60" width="60" />
-      <img align="center" src="https://img.icons8.com/color/96/000000/javascript--v1.png" alt="ahmadfaritzip" height="60" width="60" />
-      <img align="center" src="https://img.icons8.com/color/96/000000/php--v1.png" alt="ahmadfaritzip" height="60" width="60" />
-      <img align="center" src="https://img.icons8.com/color/96/000000/java--v1.png" alt="ahmadfaritzip" height="60" width="60" />
+    <img align="center" src="https://img.icons8.com/color/96/000000/python--v1.png" alt="ahmadfaritzip" height="60" width="60" />
+    <img align="center" src="https://img.icons8.com/color/96/000000/javascript--v1.png" alt="ahmadfaritzip" height="60" width="60" />
+    <img align="center" src="https://img.icons8.com/color/96/000000/php--v1.png" alt="ahmadfaritzip" height="60" width="60" />
+    <img align="center" src="https://img.icons8.com/color/96/000000/java--v1.png" alt="ahmadfaritzip" height="60" width="60" />
   </div>
   <!-- Frameworks -->
   <div align="center" style="margin-top:1rem">
-    <img align="center" src="https://img.icons8.com/color/480/000000/flask.png" alt="ahmadfaritzip" height="50" width="50" />
     <img align="center" src="https://i.imgur.com/AzoqwQf.png" alt="ahmadfaritzip" height="50" width="50" />
+    <img align="center" src="https://img.icons8.com/nolan/344/flask.png" alt="ahmadfaritzip" height="50" width="50" />
     <img align="center" src="https://img.icons8.com/color/480/000000/django.png" alt="ahmadfaritzip" height="50" width="50" />
-    <img align="center" src="https://img.icons8.com/ios/344/jquery.png" alt="ahmadfaritzip" height="50" width="50" />
+    <img align="center" src="https://i.imgur.com/qIQzbhu.png" alt="ahmadfaritzip" height="50" width="50" />
   </div>
   <div align="center" style="margin-top:1rem;">
     <img align="center" src="https://img.icons8.com/color/480/000000/mysql-logo.png" alt="ahmadfaritzip" height="50" width="50" />
@@ -65,16 +72,16 @@
 </div>
 
 
-<h3>Activity Github</h3>
-<details>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center"
-          src="https://github-readme-stats.vercel.app/api?username=ahmadfaritzip&show_icons=true&theme=tokyonight" />
-  </a>
+  <div align="center" style="border:1px solid #30363d; border-radius:10px; padding:1rem; margin-top: 1rem">
+  <h2 align="center">Activity Github</h2>
   <a href="https://github.com/anuraghazra/github-readme-stats">
       <img align="center"
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadfaritzip&show_icons=true&theme=tokyonight&layout=compact" />
   </a>
-</details>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="center"
+          src="https://github-readme-stats.vercel.app/api?username=ahmadfaritzip&show_icons=true&theme=tokyonight" />
+  </a>
+  </div>
 
 ![](https://komarev.com/ghpvc/?username=ahmadfaritzip&style=plastic)
