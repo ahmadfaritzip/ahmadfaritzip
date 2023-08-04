@@ -35,7 +35,7 @@
   </a>
 </p>
 <br />
-<h3><b>💻 GitHub Profile Stats</b></h3>
+<h2><b>💻 GitHub Profile Stats</b></h2>
 <br />
 <div align="center">
   <table border="0">
@@ -56,8 +56,8 @@
   or skill level.
 </div>
 
+<hr />
 <details>
-  <br />
   <summary align='center'>Show All</summary>
   <br />
   <h2>🔥 My Skills 🔥</h2><br />
