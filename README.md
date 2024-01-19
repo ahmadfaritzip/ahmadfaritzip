@@ -2,7 +2,7 @@
   <img src="https://visitcount.itsvg.in/api?id=ahmadfaritzip&label=Visitors&color=6&icon=5&pretty=true" />
 </a>
 <h2 align="center" style="font-size: 36px">Hi 👋, <a href="https://ahmadfaritzip.github.io" target="blank">Ahmad Faritz
-    Ip</a> here...</h2>
+    Ip</a> here....</h2>
 <h4 align="center">I like learning new things, sharing and problem solving..</h4>
 <!-- Main Links -->
 <p align="center">
